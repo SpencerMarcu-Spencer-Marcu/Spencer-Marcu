@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 - 🌱 I'm always learning new technologies and improving my skills
 - 👯 I'm looking to collaborate on interesting open-source projects
 - 💬 Ask me about development, technology, and innovation
-- 📫 How to reach me: [@SpencerMarcu](https://github.com/spencermarcu-dev)
+- 📫 How to reach me: [@SpencerMarcu](https://github.com/spencermarcu)
 
 ## 🛠️ Technologies & Tools
 
@@ -20,4 +20,4 @@ Thanks for visiting my profile! Feel free to explore my repositories and don't h
 
 ---
 
-⭐️ From [Spencer Marcu](https://github.com/spencermarcu-dev)
+⭐️ From [SpencerMarcu](https://github.com/spencermarcu)
